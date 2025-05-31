@@ -9,7 +9,8 @@ entries:
     name: my-backend-app
     type: application
     urls:
-    - https://github.com/katharrajesh/helmchart/my-backend-app-0.1.0.tgz
+     - .my-backend-app-0.1.0.tgz
+    #- https://github.com/katharrajesh/helmchart/my-backend-app-0.1.0.tgz
     version: 0.1.0
   my-frontend-app:
   - apiVersion: v2
